@@ -1,3 +1,7 @@
-This is the public profile readme for the Star and Serpent organization.
+![](/images/SS_Logo_New-WithLogo-Black_BG.png)
 
-Hello world.
+**Star and Serpent** is a small indie game studio from Finland.
+
+You can find our web page at [https://www.starandserpent.com/] with more information and the most up to date links to our other resources.
+
+Thank you for being awesome.
