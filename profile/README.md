@@ -4,9 +4,7 @@
 Star and Serpent is an independent game studio from the back woods of Finland.
 
 ```
-Some make AAA games.
-Few make AA games.
-We? We just make A game. 
+We don't chase trends. We bury them.
 ```
 
 ## More information
